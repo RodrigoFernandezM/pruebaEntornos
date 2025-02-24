@@ -3,3 +3,4 @@ Línea 2: desde IntelliJ rama master.
 Línea 3: desde Intellij rama mainRodrigo
 Línea 4: Nueva línea desde rama mainRodrigo
 Línea 5: Desde IntelliJ mainRodrigo2
+Línea 6
